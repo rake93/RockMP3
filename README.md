@@ -1,12 +1,12 @@
-
 RockMP3
 =======
 
 Android 4.1 Building Audio Player Tutorial...!
 
 
-People ask me all the time how to develop an Android program that can load up and play music. Sadly, 
-there are not a lot of good answers on the internet. The good news is, it's really not all that bad. 
+People asked me all the time how to develop an Android program that can load up and play music. 
+Sadly, there are not a lot of good answers on the internet. The good news is, it's really not all that bad. 
+
 Today we are going to:
 
     Learn how to implement features of the android.media.MediaPlayer class.
